@@ -1,41 +1,45 @@
 ---
 title: "Bradley O'Guinn"
-image: "frank.jpg"
+image: "images/headshot.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: 'https://www.linkedin.com/in/bradley-o-guinn-962420156/ target="_blank"'
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/BradOguinn target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/bradoguinn target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:bradoguinn@gmail.com"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
-## Bio
+## About
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Bradley J. O'Guinn is a doctoral student in the School of Criminal Justice at the University of Cincinnati.
+His research focuses on policing and the geographic concentration of crime. He frequently uses his skills in
+**R** and **ArcGIS** to analyze large amounts of data and identify high crime places. His work has been featured in
+*Crime and Delinquency* and *Police Practice and Research*.  
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Cincinnati** | Cincinnati, OH
 
-Ph.D. in Computer Science | September 2009 - May 2014
+ Ph.D. in Criminal Justice | August 2019 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Southern Illinois University Carbondale** | Carbondale, IL
 
-B.S. in Computer Science | September 2005 - May 2009
+ M.A. in Criminology & Criminal Justice | August 2018 - May 2019
+
+ B.A. in Criminology & Criminal Justice | August 2016 - May 2018
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**University of Cincinnati** | Cincinnati, OH
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+ Digital Futures Fellow | August 2022 - Present
+
+ Graduate Research Assistant | August 2019 - July 2022
+
