@@ -1,5 +1,5 @@
 ---
-title: "Bradley O'Guinn"
+title: "Brad O'Guinn"
 image: "images/headshot.jpg"
 links:
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
@@ -15,12 +15,12 @@ output:
 site: distill::distill_website
 ---
  
-## About
+## About Me
 
-Bradley J. O'Guinn is a doctoral student in the School of Criminal Justice at the University of Cincinnati.
-His research focuses on policing and the geographic concentration of crime. He frequently uses his skills in
-**R** and **ArcGIS** to analyze large amounts of data and identify high crime places. His work has been featured in
-*Crime and Delinquency* and *Police Practice and Research*.  
+I am a doctoral student in the School of Criminal Justice at the University of Cincinnati.
+My research focuses on policing and the geographic concentration of crime. I enjoy using **R** 
+and **ArcGIS** to analyze large amounts of data and identify high crime places. My recent work has 
+been featured in *Crime and Delinquency* and *Police Practice and Research*.  
 
 
 ## Education

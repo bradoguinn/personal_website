@@ -3,11 +3,23 @@ title: "Bradley O'Guinn"
 description: |
   Bradley J. O'Guinn
 output_dir: "docs"
+favicon: images/favicon.ico
 theme: styles.css
 navbar:
+  logo:
+     image: images/logo.jpg
+     href: index.html
   left:
     - text: "About Me"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Publications"
+      href: publications.html
+  right:  
+    - icon: fa fa-github
+      href: 'https://github.com/bradoguinn target="_blank"'
+    - icon: fa fa-linkedin
+      href: 'https://www.linkedin.com/in/bradley-o-guinn-962420156/ target="_blank"'
+    - icon: fa fa-twitter
 output: distill::distill_article
