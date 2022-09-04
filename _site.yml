@@ -5,10 +5,6 @@ description: |
 output_dir: "docs"
 favicon: images/favicon.ico
 theme: styles.css
-page-footer:
-  center:
-    - text: "Bradley J. O'Guinn 2022"
-      href: index.html
 search: 
   location: navbar
   type: overlay
