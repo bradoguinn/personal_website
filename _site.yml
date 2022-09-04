@@ -5,13 +5,11 @@ description: |
 output_dir: "docs"
 favicon: images/favicon.ico
 theme: styles.css
-search: 
-  location: navbar
-  type: overlay
 navbar:
   logo:
      image: images/logo.jpg
      href: index.html
+  search: true
   left:
     - text: "About Me"
       href: index.html
