@@ -67,8 +67,8 @@ d-appendix {
 }
 
 .distill-site-footer {
-  --text-color:       #E88EED;
-  --text-size:        80px;
+  --text-color:       #ffffff;
+  --text-size:        10;
   --hover-color:      #adb5bd;
   --bkgd-color:       #0F2E3D;
 }
