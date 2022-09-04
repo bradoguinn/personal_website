@@ -1,11 +1,12 @@
 name: "."
-title: "Bradley J. O'Guinn"
+title: "Bradley O'Guinn"
 description: |
   Bradley J. O'Guinn
 output_dir: "docs"
+theme: styles.css
 navbar:
-  right:
-    - text: "Home"
+  left:
+    - text: "About Me"
       href: index.html
     - text: "About"
       href: about.html
