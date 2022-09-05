@@ -24,3 +24,4 @@ navbar:
       href: 'https://www.linkedin.com/in/bradley-o-guinn-962420156/ target="_blank"'
     - icon: fa fa-twitter
 output: distill::distill_article
+    
